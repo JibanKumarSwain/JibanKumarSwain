@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **swainjiban2017@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SeXAgUKyUSYdFiT_ggtk0yg7ORPuCnB8/view?usp=share_link](https://drive.google.com/file/d/1SeXAgUKyUSYdFiT_ggtk0yg7ORPuCnB8/view?usp=share_link)
+- 📄 Know about my experiences Let's tack in aws cloud
 
 - ⚡ Fun fact **Every think in Cloud**
 
