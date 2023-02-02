@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jiban Kumar SWain</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/54506743/216418579-068a8828-5bc5-43a7-87c6-e0259d780397.png
-">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jibankumarswain&label=Profile%20views&color=0e75b6&style=flat" alt="jibankumarswain" /> </p>
 
 - 🌱 I’m currently learning **Amazon Web Services (AWS)**
