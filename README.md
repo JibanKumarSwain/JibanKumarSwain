@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **swainjiban2017@gmail.com**
 
-- 📄 Know about my experiences Let's tack in aws cloud
+- 📄 Know about my experiences Let's tack in AWS Cloud
 
 - ⚡ Fun fact **Every think in Cloud**
 
