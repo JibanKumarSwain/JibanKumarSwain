@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jiban Kumar SWain</h1>
+<h1 align="center">Hi 👋, I'm Jiban Kumar Swain</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
 
