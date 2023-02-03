@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Amazon Web Services (AWS)**
 
-- 💬 Ask me about **AWS Cloud / Kali Linux / Git / Docker / Terraform /**
+- 💬 Ask me about **AWS Cloud / Kali Linux / Git / Docker / Terraform **
 
 - 📫 How to reach me **swainjiban2017@gmail.com**
 
