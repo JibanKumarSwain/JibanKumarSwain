@@ -1,5 +1,5 @@
 # 💫 Jiban Kumar Swain:
-I’m currently learning Amazon Web Services (AWS)<br><br>💬 Ask me about AWS Cloud<br><br>📫 How to reach me swainjiban2017@gmail.com<br><br>📄 Know about my experiences About Cloud<br><br>⚡ Fun fact Every think in Cloud
+I’m currently working with Amazon Web Services (AWS)<br><br>💬 Ask me about AWS Cloud<br><br>📫 How to reach me swainjiban2017@gmail.com<br><br>📄 Know about my experiences About Cloud<br><br>⚡ Fun fact Every think in Cloud
 
 
 ## 🌐 Socials:
